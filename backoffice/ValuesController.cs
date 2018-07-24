@@ -15,7 +15,7 @@ namespace backoffice
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "Bro", "Do" };
+            return new string[] { "continous", "integration", "is", "pretty", "neat!" };
         }
 
         //// GET api/<controller>/5
