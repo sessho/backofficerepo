@@ -1,0 +1,11 @@
+C:\Users\Marco\Desktop\Marco\ThalesAngular\BackOffice\backoffice\backoffice\backoffice\obj\Debug\netcoreapp2.0\backoffice.csprojAssemblyReference.cache
+C:\Users\Marco\Desktop\Marco\ThalesAngular\BackOffice\backoffice\backoffice\backoffice\obj\Debug\netcoreapp2.0\backoffice.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\Marco\ThalesAngular\BackOffice\backoffice\backoffice\backoffice\obj\Debug\netcoreapp2.0\backoffice.AssemblyInfoInputs.cache
+C:\Users\Marco\Desktop\Marco\ThalesAngular\BackOffice\backoffice\backoffice\backoffice\obj\Debug\netcoreapp2.0\backoffice.AssemblyInfo.cs
+C:\Users\Marco\Desktop\Marco\ThalesAngular\BackOffice\backoffice\backoffice\backoffice\bin\Debug\netcoreapp2.0\backoffice.deps.json
+C:\Users\Marco\Desktop\Marco\ThalesAngular\BackOffice\backoffice\backoffice\backoffice\bin\Debug\netcoreapp2.0\backoffice.runtimeconfig.json
+C:\Users\Marco\Desktop\Marco\ThalesAngular\BackOffice\backoffice\backoffice\backoffice\bin\Debug\netcoreapp2.0\backoffice.runtimeconfig.dev.json
+C:\Users\Marco\Desktop\Marco\ThalesAngular\BackOffice\backoffice\backoffice\backoffice\bin\Debug\netcoreapp2.0\backoffice.dll
+C:\Users\Marco\Desktop\Marco\ThalesAngular\BackOffice\backoffice\backoffice\backoffice\bin\Debug\netcoreapp2.0\backoffice.pdb
+C:\Users\Marco\Desktop\Marco\ThalesAngular\BackOffice\backoffice\backoffice\backoffice\obj\Debug\netcoreapp2.0\backoffice.dll
+C:\Users\Marco\Desktop\Marco\ThalesAngular\BackOffice\backoffice\backoffice\backoffice\obj\Debug\netcoreapp2.0\backoffice.pdb
