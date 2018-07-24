@@ -41,7 +41,7 @@ module.exports = ""
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<!--The content below is only a placeholder and can be replaced.-->\n<div style=\"text-align:center\">\r\n  <h1>Application says what?</h1>\r\n  <ul>\r\n    <li *ngFor=\"let value of apiValues\">{{value}}</li>\r\n  </ul>\r\n</div>\n"
+module.exports = "<!--The content below is only a placeholder and can be replaced.-->\n<div style=\"text-align:center\">\r\n  <h1>Back Office Test</h1>\r\n  <ul>\r\n    <li *ngFor=\"let value of apiValues\">{{value}}</li>\r\n  </ul>\r\n</div>\n"
 
 /***/ }),
 
