@@ -1,5 +1,6 @@
-import { Component, OnInit } from '@angular/core';
-import { Http } from '@angular/http'
+import { Component, OnInit } from 'node_modules/@angular/core';
+import { Http } from 'node_modules/@angular/http';
+
 @Component({
     selector: 'app-root',
     templateUrl: './app.component.html',

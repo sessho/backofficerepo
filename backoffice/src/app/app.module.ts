@@ -1,10 +1,10 @@
-import { BrowserModule } from '@angular/platform-browser';
-import { NgModule } from '@angular/core';
+import { BrowserModule } from 'node_modules/@angular/platform-browser';
+import { NgModule } from 'node_modules/@angular/core';
 
 import { AppComponent } from './app.component';
 
-import { FormsModule } from '@angular/forms';
-import { HttpModule } from '@angular/http';
+import { FormsModule } from 'node_modules/@angular/forms';
+import { HttpModule } from 'node_modules/@angular/http';
 
 @NgModule({
   declarations: [
