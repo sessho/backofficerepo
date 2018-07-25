@@ -30,7 +30,7 @@ webpackEmptyAsyncContext.id = "./src/$$_lazy_route_resource lazy recursive";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<!--The content below is only a placeholder and can be replaced.-->\r\n<h1>{{title}}</h1>\r\n<h1>hello</h1>\r\n<h1>World</h1>\r\n\r\n<ul *ngFor=\"let value of apiValues\">\r\n  <li>{{value}}</li>\r\n</ul>\r\n\r\n"
+module.exports = "<!--The content below is only a placeholder and can be replaced.-->\r\n<h1>{{title}}</h1>\r\n<h1>hello</h1>\r\n<h1>World</h1>\r\n\r\n<div class=\"dropdown-menu\">\r\n  <form class=\"px-4 py-3\">\r\n    <div class=\"form-group\">\r\n      <label for=\"exampleDropdownFormEmail1\">Email address</label>\r\n      <input type=\"email\" class=\"form-control\" id=\"exampleDropdownFormEmail1\" placeholder=\"email@example.com\">\r\n    </div>\r\n    <div class=\"form-group\">\r\n      <label for=\"exampleDropdownFormPassword1\">Password</label>\r\n      <input type=\"password\" class=\"form-control\" id=\"exampleDropdownFormPassword1\" placeholder=\"Password\">\r\n    </div>\r\n    <div class=\"form-check\">\r\n      <input type=\"checkbox\" class=\"form-check-input\" id=\"dropdownCheck\">\r\n      <label class=\"form-check-label\" for=\"dropdownCheck\">\r\n        Remember me\r\n      </label>\r\n    </div>\r\n    <button type=\"submit\" class=\"btn btn-primary\">Sign in</button>\r\n  </form>\r\n  <div class=\"dropdown-divider\"></div>y\r\n  <a class=\"dropdown-item\" href=\"#\">New around here? Sign up</a>\r\n  <a class=\"dropdown-item\" href=\"#\">Forgot password?</a>\r\n</div>\r\n\r\n<button type=\"submit\" class=\"btn btn-primary\">Sign in</button>\r\n\r\n\r\n<ul *ngFor=\"let value of apiValues\">\r\n  <li>{{value}}</li>\r\n</ul>\r\n\r\n\r\n"
 
 /***/ }),
 
