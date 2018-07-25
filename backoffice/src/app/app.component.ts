@@ -8,7 +8,7 @@ import { Http } from 'node_modules/@angular/http';
 })
 export class AppComponent implements OnInit {
     constructor(private _httpService: Http) { }
-    title: string = "All I did was check-in and bada-bing";
+    title: string = "BACK OFFICE";
     apiValues: string[] = [];
     ngOnInit() {
         this._httpService.get('/api/values').subscribe(values => {
